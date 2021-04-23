@@ -1,0 +1,2 @@
+# Definition
+En [[Steroider]] i levern  som ildar [[Kolesterol]]. Har [[Karboxylgrupp]]-grupp inden till kol-skelettet vilkar skapar ett svans och ett huvud som i [[Tvål]] och [[Fosfolipider]], där gruppen är [[Hydrofila]] medan resten är [[Hydrofoba]].

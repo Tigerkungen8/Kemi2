@@ -1,0 +1,1 @@
+autotrof kan använda solenergi eller kemisk energi. heterotrof måste få energi från något annat levande

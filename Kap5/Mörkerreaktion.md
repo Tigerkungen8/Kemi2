@@ -1,0 +1,2 @@
+# Definition
+Efter [[Ljusreaktion]]:en, beror ej på ljus, därmed sker i ljus och i mörker. Förenar vätet från vatten-[[Spjälkning]]:en från ljusreaktionen med koldioxid så att [[Glukos]] bildas. Reaktionen kräver energi, vilket fås av ljusreaktionens [[ATP]].

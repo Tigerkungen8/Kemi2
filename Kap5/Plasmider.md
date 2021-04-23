@@ -1,0 +1,2 @@
+# Definition
+[[DNA]]-kromosomer som är i form av en cirkel. Finns i [[Bakterier]]. Dessa kan då överföras mellan bakterier så man utbyter gener, även om det är könslös/vegetativt. Därmed kan resistanta bakterier få andra bakterier att bli resistanta, mot t.ex antibiotika.

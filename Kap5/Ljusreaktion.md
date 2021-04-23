@@ -1,0 +1,2 @@
+# Definition
+Inledande delen av [[Fotosyntes]]:en. Ljusenergin flyttar upp exiterade elektroner till högre energinivåer. Dessa elektroner utnyttjas sen för att bilda [[ATP]] samt [[Spjälkning]] av vatten tille syre och väte.

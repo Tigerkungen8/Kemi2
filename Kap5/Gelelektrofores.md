@@ -1,0 +1,2 @@
+# Definition
+Undersöker [[DNA]]-bitarnas (från PCR och fingeravtryck av [[DNA-Analyser]]). Ger bitana en negativ laddning genom en basisk buffertlösning. Man tar sedan någon droppe av den negativa DNA:et till en *brunn* som ligger ovanför  en gel/gelplatta som i sig ligger över buffertlösningen. Sedan tas det fram anoder och katoder som leder till (brunnen läggs då nära katoden), då DNA:et är negativt, till att de går igenom gelen till anoden, vilket på så sätt visar längden av fregmenten vilket skapar ett DNA-fingeravtryck.

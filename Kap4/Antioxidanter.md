@@ -1,0 +1,2 @@
+# Definition
+Hjälper mot [[Oxidation]].

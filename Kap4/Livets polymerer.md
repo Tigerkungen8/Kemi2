@@ -1,0 +1,1 @@
+Innehåller [[Kolhydrater]], [[Lipider]] och [[Proteiner]].

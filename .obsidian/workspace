@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "e6ffaabf48f499b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dede12c77cdd464",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Kap4/Cellandning.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8102d4401e78e745",
+    "type": "split",
+    "children": [
+      {
+        "id": "18f55c304e8ec4d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bbb67a8737cb5c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d3554f9895bbc00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cellandn",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281
+  },
+  "right": {
+    "id": "23255d2de8b4f028",
+    "type": "split",
+    "children": [
+      {
+        "id": "85ad8d97cbd7c867",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e42838cc4cfce193",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kap4/Cellandning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.4999694824219
+  },
+  "active": "0dede12c77cdd464",
+  "lastOpenFiles": [
+    "Kap4/Cellandning.md",
+    "Kap4/Aromatiska Polyamider.md",
+    "Kap4/Alfa-Spiraler.md",
+    "Kap4/Stärkelse.md",
+    "Kap5/Gelelektrofores.md",
+    "Kap4/Enzymer.md",
+    "Kap4/Glycerol.md",
+    "Kap4/Alkalisk Esterhydrolys.md",
+    "Kap4/Fosolipider.md",
+    "Kap5/Fosfatgrupper.md"
+  ]
+}
