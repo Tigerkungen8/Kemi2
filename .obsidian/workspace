@@ -6,10 +6,11 @@
       {
         "id": "0dede12c77cdd464",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kap4/Cellandning.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,12 +69,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kap4/Cellandning.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,17 +84,16 @@
     "direction": "horizontal",
     "width": 260.4999694824219
   },
-  "active": "0dede12c77cdd464",
   "lastOpenFiles": [
-    "Kap4/Cellandning.md",
-    "Kap4/Aromatiska Polyamider.md",
+    "README.md",
+    "Kap4/Aldehyder.md",
+    "Kap4/Aldoser.md",
     "Kap4/Alfa-Spiraler.md",
-    "Kap4/Stärkelse.md",
-    "Kap5/Gelelektrofores.md",
-    "Kap4/Enzymer.md",
-    "Kap4/Glycerol.md",
     "Kap4/Alkalisk Esterhydrolys.md",
-    "Kap4/Fosolipider.md",
-    "Kap5/Fosfatgrupper.md"
+    "Kap4/Amfolyter.md",
+    "Kap4/Amidgrupp.md",
+    "Kap4/Aminosyror.md",
+    "Kap4/Amylos.md",
+    "Kap4/Amylopektin.md"
   ]
 }
