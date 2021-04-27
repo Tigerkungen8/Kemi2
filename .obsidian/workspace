@@ -6,7 +6,6 @@
       {
         "id": "0dede12c77cdd464",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -40,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cellandn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +72,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -82,18 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.4999694824219
+    "width": 260.4999694824219,
+    "collapsed": true
   },
+  "active": "0dede12c77cdd464",
   "lastOpenFiles": [
     "README.md",
-    "Kap4/Aldehyder.md",
     "Kap4/Aldoser.md",
     "Kap4/Alfa-Spiraler.md",
-    "Kap4/Alkalisk Esterhydrolys.md",
-    "Kap4/Amfolyter.md",
-    "Kap4/Amidgrupp.md",
-    "Kap4/Aminosyror.md",
-    "Kap4/Amylos.md",
-    "Kap4/Amylopektin.md"
+    "Kap4/Plaster.md",
+    "Kap4/Polymerer.md",
+    "Kap4/Proteiner.md",
+    "Kap4/Monomerer.md",
+    "Kap4/Lipider.md",
+    "Kap4/Monosackarider.md",
+    "Kap4/Kolhydrater.md"
   ]
 }

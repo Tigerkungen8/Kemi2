@@ -4,7 +4,7 @@
 ## Har
 - *[[Cellmembran]]*
 - *Cellplasma*
-- *[[Cellkärna]]*
+- *Cellkärna*
 - *[[Ribosomer]]*
 - *Nätverk*
 - *[[Mitokondrie]]*

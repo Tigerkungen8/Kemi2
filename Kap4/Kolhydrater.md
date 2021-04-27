@@ -5,9 +5,6 @@ En molekyl som är en blandning av vatten och kol. Vanlig formel är då $C_n(H_
 
 Dessa [[Monosackarider]]-molekyler kan lnkas ihop genom kondensation och bilda *sammantsatta kolhydrater*. Beroende på antalet monosackarider kan de kallas **[[Disackarider]]**, **trisackarider** ... Exempel på en disackarid är då sackaros (har flera monosackarder, full, därmed ej kan reducera andra ämnen). De som har massor av monosackarider kallas då [[Polysackarider]], t.ex [[Cellulosa]] och [[Stärkelse]].
 
-
-
-
 ### Rolig fakta
 Vissa mono- samt disackarider används som sötningsmedel. Dessa korta molekyler har då tivialgruppnamnet "sockerarter".
 
