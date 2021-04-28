@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -89,14 +89,14 @@
   "active": "0dede12c77cdd464",
   "lastOpenFiles": [
     "README.md",
-    "Kap4/Aldoser.md",
-    "Kap4/Alfa-Spiraler.md",
-    "Kap4/Plaster.md",
-    "Kap4/Polymerer.md",
-    "Kap4/Proteiner.md",
-    "Kap4/Monomerer.md",
-    "Kap4/Lipider.md",
-    "Kap4/Monosackarider.md",
-    "Kap4/Kolhydrater.md"
+    "Kap5/Plasmider.md",
+    "Kap5/Ribosomer.md",
+    "Kap5/DNA.md",
+    "Kap5/Passiv Ämnestransport.md",
+    "Kap5/Nukleotider.md",
+    "Kap5/Muskelceller.md",
+    "Kap5/Ljusreaktion.md",
+    "Kap5/Hybrid-DNA.md",
+    "Kap5/Glykolysen.md"
   ]
 }
