@@ -5,7 +5,7 @@ Syftet med detta repo är att dela den information jag (?) har fått upp, anting
 Så, hur är detta byggt, och hur kan du använda detta? Jag skrev allt detta med ett program som heter [Obsidian](https://www.obsidian.md), vilket jag rekomendarar att du laddar ner, det är ett fantastiskt, *gratis* (för tillfället) verktyg för att skriva digitala anteckningar. Hur man laddar ner det och allt det finns på webbsidan (utan problem för alla OS:s förutom ChromeOS, står mer där). 
 
 Här är hur du ska då ladda ner projektet:
-1. Ladda ner Kemi2-repot genom att ladda ner en ZIP-fil.
+1. Ladda ner Kemi2-repot genom att ladda ner en ZIP-fil. (Detta gör du genom att klicka på den gröna "Code"-knappen, och sedan gå ner till "Download ZIP").
 2. Unzipa filen (självklart för de flesta system, men ifall du har en Chromebook, läs nästa *subheading*).
 3. Nu har du alla filer! Nu är det enda som krävs att du lägger de filerna i ett speciellt folder (som Obsidian också har tillgång till). Sedan öppnar du upp Obsidian, där det kommer upp en flik om du vill "Open  folder as vault", "Create new vault" eller "Open help vault". Du kan skippa help-vaultet för tillfället.  
 4. Eftersom att detta är endast *Markdown*-filer och folders behöver du bara trycka på "Open folder as vault", där du sedan väljer "Kemi2-main". Nu har du Obsidian uppe för Kemi2.
@@ -17,7 +17,7 @@ I alla fall, alla dessa anteckningar är byggd på ett "språk" som heter "Markd
 Detta *repo* består av ca 130 filer, som är linkade med varandra på speciellt sätt med \[[]] som har namnet på andra filer. Man kan se hur kopplade visa filer som [[Kolhydrater]] eller [[Fetter]] är genom att trycka *Ctrl + G*, vilket öppnar "Graph View".
 
 ## Chromebook Obsidian
-Eftersom att de flesta studenter som jag känner använder Chromebook samt ChromeOS, så måste jag skriva en guide till hur man ska ladda ner detta Obsidian för Chromebooks, så att detta projekt kan faktiskt bli användbar. 
+Eftersom att de flesta studenter som jag känner använder Chromebook samt ChromeOS, så måste jag skriva en guide till hur man ska ladda ner detta Obsidian för Chromebooks, så att detta projekt kan faktiskt bli användbar. **OBS:** Finns ett lättare sätt, gå bara in på [Guiden](https://decoge.medium.com/how-to-install-obsidian-on-a-chromebook-53e379217adf) som använder ett annat sätt. Dock raderar jag inte denna guide då jag är för stolt för det.
 
 0. (Ifall du redan har laddat ner Linux på din chromebook, skippa detta steg). För att ladda ner Linux på din dator behöver du gå in i "Inställningar", sedan gå in i "Utvecklare", sedan "Sätt på" för Linux (Beta).
 1. Ladda ner Obsidian. Detta gör du genom att gå till deras webbsida ([Obsidian](https://obsidian.md/download)) och väljer ladda ner Obsidian **AppImage** (måste ta det, flat och snap är andra sätt som jag inte visar i denna *README*). Sedan flyttar du *AppImagen* till "Linux-filer", som du ska ha fått när du laddade ner Linux.
