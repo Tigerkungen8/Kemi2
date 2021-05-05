@@ -1,7 +1,7 @@
 # Definition
 Uppbygd av [[Aminosyror]].  En del är kroppens byggmaterial, men kan också vara *biologiskt aktiva substanser*. 
 
-De bilogiskt aktiva substanserna är då alltså [[Enzymer]], transportproteiner (som [[Hemoglobin]] som transporterar syre i blodet), antikroppar samt vissa hormoner.
+De biologiskt aktiva substanserna är då alltså [[Enzymer]], transportproteiner (som [[Hemoglobin]] som transporterar syre i blodet), antikroppar samt vissa hormoner.
 
 Kallas också *äggviteämnen* på grund av att äggvita är egentligen endast protein så att kyklingen har tillräckligt med mat/näring/energi/byggmaterial för att växa upp. 
 

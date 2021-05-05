@@ -1,4 +1,6 @@
 # Definition
+Andra steget i [[Energutvinning]].
+
 Citronsyracykeln, eller Krebs cykel, sker inom [[Mitokondrie]]:en. Först tar den [[Pyrodruvsyra]] som fick från [[Glykolysen]] och bryter ner den till *aktiv ättiksyra* som innehåller 2 kolatomer där den tredje går till skapandet av koldioxid. Dessutom lämnas väte till vätebärare. (Egentligen inte, det sker mellan glykolysen och Krebs-cykeln).
 
 Aktiv ättikasyra heter också *acetyl-koenzym* (typ A?) och är en acetylgrupp förenad med ko-[[Enzymer]] A. $CH_3CO-$-molekylen i acetyl-.... A är en ättikasyramolekyl utan en [[Hydroxylgrupp]]. 

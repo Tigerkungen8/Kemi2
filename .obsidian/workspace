@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5aac73f4d9b8db09",
+        "id": "ab08bfa798415630",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kap4/Alkalisk Esterhydrolys.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "a0eb6db62bf41a02",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Kap4/Fotosyntes.md",
-            "mode": "preview"
+            "file": "Kap3/Reaktioner.md",
+            "mode": "source"
           }
         }
       }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fotosy",
+                "query": "trivial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281
+    "width": 238
   },
   "right": {
     "id": "23255d2de8b4f028",
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kap4/Fotosyntes.md",
+                "file": "Kap3/Reaktioner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "width": 260.4999694824219,
     "collapsed": true
   },
-  "active": "a0eb6db62bf41a02",
+  "active": "ab08bfa798415630",
   "lastOpenFiles": [
-    "Kap4/Fotosyntes.md",
-    "Kap4/Aminosyror.md",
-    "Kap4/Polypeptider.md",
-    "Kap4/Peptidbindning.md",
-    "Kap4/Amidgrupp.md",
-    "Kap3/Alkoholer.md",
-    "Kap4/Glycerol.md",
-    "Kap4/Alkalisk Esterhydrolys.md",
-    "Kap4/Polyamider.md",
-    "Kap3/Kolföreningar.md"
+    "Reaktion.md",
+    "Substitutionsreaktioner.md",
+    "Halogener.md",
+    "Untitled.md",
+    "Kap3/Alkaner.md",
+    "Kap3/Kolväten.md",
+    "Kap4/Vätebinding.md",
+    "Bilder/StrukturformlerPentaner.jpg",
+    "Bilder/NamngivningAlkaner.jpg",
+    "Kap3/Aldehyder.md"
   ]
 }

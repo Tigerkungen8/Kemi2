@@ -18,7 +18,7 @@ Finns två sorter av **reversibel** inhibitorer: tävlande/kompetetiv och icke-t
 
 En icke-tävlande binder sig då inte till fickan utan till en annan del av enzymet och förändrar formen på fickan vilket gör så att substraten inte längre passar. Detta stänger ner alla aktivitet enzymet har.
 
-En irreversibel inhibitor kallas *enzymgifter* då den egentligen dödar enzymet.
+En **irreversibel** inhibitor kallas *enzymgifter* då den egentligen dödar enzymet.
 
 
 ## Exempel

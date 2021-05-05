@@ -1,5 +1,5 @@
 # Definition
-
+Organiska föreningar som består enbart av kol- och väteatomer.
 
 ## Typer
 - [[Alkaner]]
