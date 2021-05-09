@@ -48,6 +48,7 @@ Ifal du har laddat ner Obsidian kan du nu ladda ner Kemi2 från Github, vilket d
 - CTRL + Klick på blå text => Öppnar upp den anteckningen som är länkad. (På många sätt det viktigaste kommandot)
 - CTRL + E  => Editor/Preview mode. (Ifall ni vill bara läsa, va i Preview mode)
 - CTRL + G => Graph View. (Visar hur alla anteckningar är kopplade till varandra)
+- CTRL + SHIFT + F => Sökning (kan båda söka efter specfika ord i anteckningar, eller namnet på anteckningar ifall du lägger till ```file:```)
 
 Alla dessa anteckningar är byggd på ett "språk" som heter "Markdown", vilket är ett extremt lätt språk att lära sig (kunde inte det förrens jag laddade ner programmet, blev "flytande" nästan direkt efter) då det enda man använder är vanliga bokstäver och några tecken som stjärnor (\*) och hashtags (\#) för att skapa headers samt *italic* och **bold** text. Du kan även hitta lite $\LaTeX$-kod men det bara skapar fina ekvationer, som du lätt kan se om du trycker *Ctrl + E* då [Obsidian](https://www.obsidian.md) läser igenom det och "skapar" de fina reaktionerna. (Innebär att vilken Markdown-editor som helst kan läsa dessa filer).
 

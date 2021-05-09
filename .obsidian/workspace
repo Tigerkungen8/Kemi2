@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kap3/Estrar.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kap3/Estrar.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +88,7 @@
   },
   "active": "a9eb6430349b7dc9",
   "lastOpenFiles": [
+    "README.md",
     "Kap3/Estrar.md",
     "Kap3/Etrar.md",
     "Kap6/Titreranalys.md",
@@ -97,7 +97,6 @@
     "Kap6/Metallkomplex.md",
     "Kap6/Kvantitativa Analyser.md",
     "Kap6/Kvalitativa Analyser.md",
-    "Kap6/Kolorimetriska Analyser.md",
-    "Kap6/Jonbytare.md"
+    "Kap6/Kolorimetriska Analyser.md"
   ]
 }
