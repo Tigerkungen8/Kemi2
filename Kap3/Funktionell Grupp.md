@@ -1,0 +1,2 @@
+# Definition
+En (relativt) liten grupp av atomer i en molekyl som om insatt i en annan molekyl ändrar dess egenskaper. Exempel är då [[Hydroxylgrupp]], [[Ketoner]], [[Aldehyder]], [[Fosfatgrupper]],  [[Karboxylgrupp]]

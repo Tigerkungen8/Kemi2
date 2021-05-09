@@ -1,2 +1,2 @@
 # Definition
-Bensenringar.
+[[Arener]]/[[Aromatiska Kolväten]].

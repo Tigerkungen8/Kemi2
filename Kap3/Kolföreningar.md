@@ -9,5 +9,9 @@ Finns ett ordentligt system, dock finns många [[Trivialnamn]], speciellt när d
 ## Ämnesklasser
 - [[Kolväten]]
 - [[Alkoholer]]
-- [[Karboxylsyror]]
-- [[Ester]]/ar
+- [[Karboxylsyragrupp]]
+- [[Etrar]]
+- [[Fenoler]]
+- [[Tioler]]
+- [[Aminer]]
+- [[Estrar]]

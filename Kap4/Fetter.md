@@ -1,5 +1,5 @@
 # Definition
-Är [[Ester]]:s vars molekyler bildas av den trevärda alkoholen [[Glycerol]] och av tre [[Karboxylsyragrupp]]. 
+Är [[Estrar]]:s vars molekyler bildas av den trevärda alkoholen [[Glycerol]] och av tre [[Karboxylsyragrupp]]. 
 
 Dessa [[Karboxylsyragrupp]] som hittas som byggstenar i fettmolekyler kallas även *[[Fettsyror]]*.
 

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ab08bfa798415630",
+        "id": "a9eb6430349b7dc9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kap3/Reaktioner.md",
+            "file": "Kap3/Estrar.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trivial",
+                "query": "ester",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kap3/Reaktioner.md",
+                "file": "Kap3/Estrar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +87,17 @@
     "width": 260.4999694824219,
     "collapsed": true
   },
-  "active": "ab08bfa798415630",
+  "active": "a9eb6430349b7dc9",
   "lastOpenFiles": [
-    "Reaktion.md",
-    "Substitutionsreaktioner.md",
-    "Halogener.md",
-    "Untitled.md",
-    "Kap3/Alkaner.md",
-    "Kap3/Kolväten.md",
-    "Kap4/Vätebinding.md",
-    "Bilder/StrukturformlerPentaner.jpg",
-    "Bilder/NamngivningAlkaner.jpg",
-    "Kap3/Aldehyder.md"
+    "Kap3/Estrar.md",
+    "Kap3/Etrar.md",
+    "Kap6/Titreranalys.md",
+    "Kap6/Spektroskopiska Analysmetoder.md",
+    "Kap6/Spektrofotometri.md",
+    "Kap6/Metallkomplex.md",
+    "Kap6/Kvantitativa Analyser.md",
+    "Kap6/Kvalitativa Analyser.md",
+    "Kap6/Kolorimetriska Analyser.md",
+    "Kap6/Jonbytare.md"
   ]
 }

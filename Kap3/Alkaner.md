@@ -12,7 +12,7 @@ Med antalet kolatomer som ökar så ökar antalet variationer/[[Isomerer]] ocks�
 
 ## Namngivning enligt IUPAC
 Bäst förklarad med bild:
-![[NamngivningAlkaner.jpg|500]]
+![[AlkanerIUPAC.jpg|500]]
 
 ### Nomenklatur
 **Normala alkaner:** Namnet börjar med de latinska räkneorden (inte i början, runt pentan börjar riktigt nomenklatur), så t.ex, hexan, heptan, oktan, nonan. Alla slutar med *-an*.
@@ -20,7 +20,7 @@ Bäst förklarad med bild:
 **Isomerer:** Finns ett ordentligt system som jag kommer utveckla. **Mindre anmärkning:** n-butan betyder normal butan, som är ogrenad. Är ett trivialnamn. Isobutan är då ett trivialnamn för den andra isomererna av butan som är grenad.
 
 ## Smält-/kokpunkter
-Det enda som håller ihop dessa molekyler är [[VanDerWaalsbindning]], alltså mycket svag -> alkaner har låga smält- och kokpunkter. Eftersom bindningen beror på kontaktytan mellan atomer så är bindningens kraft beroende på hur *ogrenade* molekylerna är, då ju mer grenad den är, desto mindre kontakt har den.
+Det enda som håller ihop dessa molekyler är [[Van Der Waalsbindning]], alltså mycket svag -> alkaner har låga smält- och kokpunkter. Eftersom bindningen beror på kontaktytan mellan atomer så är bindningens kraft beroende på hur *ogrenade* molekylerna är, då ju mer grenad den är, desto mindre kontakt har den.
 
 Alltså: lägre grening -> högre smält- och kokpunkt, samt vice versa.
 

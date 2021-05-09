@@ -1,0 +1,2 @@
+# Definition
+En molekyl som har minst två eller flera dubbel-/trippelbindingar. Enklaste är kolväten med två dubbelbindningar, kallas *diener*, som då leder till att molekylen slutar med *-dien* istället för *-en* som [[Alkener]].

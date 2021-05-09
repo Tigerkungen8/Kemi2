@@ -8,7 +8,7 @@
 - Den lediga platsen kan användas av en annan positivt laddad jon, t.ex en natriumjon ($Na⁺$)
 - På så sätt kan en lösning "renas" från $Na⁺$-joner
 - Kallas katjonbytare (som sänder ut joner) (katjon = positivt laddad jon, attraheras av katoden)
-- På motsvarane sätt finns polymerer som byter hydroxidjoner ($OH⁻$) mot andra negativa joner, t.ex kloridjoner ($Cl⁻$)
+- På motsvarande sätt finns polymerer som byter hydroxidjoner ($OH⁻$) mot andra negativa joner, t.ex kloridjoner ($Cl⁻$)
 - Sådana polymerer kallas anjonbytare (anjon = negativt laddad jon)
 - Vad händer om man placerar en katjonbytare och en anjonbytare efter varandra?
 

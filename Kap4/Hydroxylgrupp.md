@@ -1,2 +1,2 @@
 # Definition
-$OH⁻$-molekyler. 
+En [[Funktionell Grupp]]. $-OH$ 

@@ -1,5 +1,5 @@
 # Definition
-Ej [[Ester]], utan är ett kolskelett som är egentligen kol-ringar i hexagonal form.
+Ej [[Etrar]], utan är ett kolskelett som är egentligen kol-ringar i hexagonal form.
 
 Finns väldigt många olika varianter av skelett som ger många olika egenskaper. 
 

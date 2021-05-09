@@ -1,0 +1,2 @@
+# Definition
+Analys baserad på sammbandet mellan materia och elektromagnetisk strålning (när atomer får ljus på sig exciteras deras elektroner och går upp till högre orbitaler (dock kan en atom bara absorbera en viss mängd energi, kan inte gå upp i all oändlighet). När dessa elektroner sedan går ner igen så sänder de ut energi som då är elektromagnetsik strålning).

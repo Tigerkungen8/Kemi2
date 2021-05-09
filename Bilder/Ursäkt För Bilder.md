@@ -1,0 +1,2 @@
+# Ursäkt
+När jag hänvisar till sidor så var det från början tänkt att jag skulle ha en bild inne i dokumentet istället. Men detta skulle bryta mot Kopieringslagen, så det blir sid-hänvisningar istället.

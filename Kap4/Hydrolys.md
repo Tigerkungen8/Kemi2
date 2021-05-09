@@ -1,4 +1,4 @@
-## Definition
+# Definition
 Kan kallas en omvänd [[Kondensationsreaktion]], ämnet tar alltså upp vatten under reaktionen.
 
 ### Använding

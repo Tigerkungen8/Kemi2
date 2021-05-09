@@ -1,5 +1,5 @@
 # Definition
-Bygger på att olika komponenter har olika färger. 
+Bygger på att olika komponenter har olika färger. Kromatografi används för att skilja blandade ämnen.
 
 ## Genomgång
 - Två olika faser (stationär och mobil)
@@ -8,21 +8,18 @@ Bygger på att olika komponenter har olika färger.
 - I mobila fasen påverkas snabbheten av hur väl "analysämnet" löser sig
 
 ### Mobila fasen
-Kan bestå av en vätska eller en gas. (Behöver inte kunna i detalj)
-
-Väteskekromatografi:
-Kolonnkromatografi
-Papperskromatografi/tunnksiktskormatografi
-Jonbyteskromatografi 
+Kan bestå av en vätska eller en gas. (Behöver inte kunna i detalj).
 
 #### Gaskromatografi
-Mobila fasen utgörs av en gas ($N_2$, $He$)
-Kolonnenen (röret) har vätskefas längs innerväggarna och gas i rsten av röret.
-Transporthasighet beror av löslighet i väteskefasen och flyktighet i gasfasen.
+- Mobila fasen utgörs av en gas ($N_2$, $He$)
+- Kolonnenen (röret) har vätskefas längs innerväggarna och gas i resten av röret.
+- Transporthasighet beror av löslighet i väteskefasen och flyktighet i gasfasen.
 
-NMR (kärnmagnetsik resonansspektroskopi)
-Vissa atomkärnor uppträder som små magneter. Energi kan lagras om de inte ställt in sig i magnetfärltet. Energi kan lagras om de inte ställt in sig i magnetfältet. Endast vissa energinivåer möjliga.
+#### Vätskekromatografi
+Likt gaskromatografi, dock är den mobila fasen en vätska. (Behöver inte veta mycket om varje metod).
 
-Energi kan tillföras genom elektromagnetisk strålning $E=hv$.
+Kolonnkromatografi: "Analysämnet" delas upp pga att olika delar transporteras olika snabbt genom vätskan ([[Gelfiltrering]]).
 
-Av detta kan man sluta sig till vilken typ av atomkärnor som ingår i ett "analysämne".
+Papperskromatografi/tunnksiktskromatografi: "Analysämnet" binds olika till pappret/skiktet respektive vätskan.
+
+Jonbyteskromatografi: "Analysämnet" innehåller joner med olika laddning. Ju större laddning, desto hårdare bindingar.
