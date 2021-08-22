@@ -1,2 +1,0 @@
-# Definition
-[[Arener]]/[[Aromatiska Kolväten]].

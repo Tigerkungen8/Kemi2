@@ -3,7 +3,7 @@ Innehåller en eller flera [[Karboxylgrupp]]:er, som skrivs vanligast $COOH$ men
 
 [[Aldehyder]] som bildas genom [[Oxidation]] av en primär [[Alkoholer]] kan bli oxiderad igen och på det sättet bilda karboxylsyra.
 
-**[[Aromatiska]] karboxylsyror:** Alltså karboxylsyror i bensenringar (ungefär, men syran kan bindas till vilket aromatiskt kolväte).
+**[[Aromater]] karboxylsyror:** Alltså karboxylsyror i bensenringar (ungefär, men syran kan bindas till vilket aromatiskt kolväte).
 
 **Flervärda karboxylsyror:** Molekyler som har två eller flera karboxylgrupper. Lättaste är då oxalsyra/$(COOH)_2$. Några andra är då *citronsyra*, *vinsyra* och *äppelsyra*.
 

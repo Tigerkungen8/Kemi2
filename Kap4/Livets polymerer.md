@@ -1,1 +1,2 @@
-Innehåller [[Kolhydrater]], [[Lipider]] och [[Proteiner]].
+# Definition
+Är [[Kolhydrater]], [[Lipider]] och [[Proteiner]].

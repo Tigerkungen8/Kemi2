@@ -1,7 +1,7 @@
 # Definition
 Önskar bestämma koncentration hos en lösning (i en *titrand*) genom att tillsätta en annan lösning (som är i en *titrator*) med känd koncentration.
 
-En indikator (t.ex BTB) används för att avgöra mängderna titrand och titrator överstämmer. När det blir t.ex grönt har lösningen nått ekvivalenspunkten där basen och syra är lika, man vet mängderna av titranden och titratorn, sedan kan man beräkna koncentrationen i titranden.
+En indikator (t.ex BTB) används för att avgöra mängderna titrand och titrator överstämmer. När det blir t.ex grönt har lösningen nått ekvivalenspunkten där basen och syra är lika (förenklat, egentligen så är ekvivalenspunkten när pH:t drastiskt ändras, behöver dock inte ske vid pH 7), man vet mängderna av titranden och titratorn, sedan kan man beräkna koncentrationen i titranden.
 
 **Försiktigt med svavel, halv koncentration då man har två väte att ge**.
 

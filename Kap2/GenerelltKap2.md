@@ -10,7 +10,7 @@ $pK_a + pK_b = pK_w$.
 
 $[H_3O⁺]$ kan också skrivas som $[H⁺]$. Kallas för *oxoniumjoner*.
 
-Skillnad Ka och pKa är att pKa tar bort $10^{x}$ och får fram att lite lättare värde. Annars är det detsamma. T.ex $K_a = 1,8 \cdot 10^{-5} \Rightarrow pK_a = 4,74$.
+Skillnad Ka och pKa är att pKa tar bort $10^{x}$ och får fram att lite lättare värde. Annars är det detsamma. T.ex $K_a = 1,8 \cdot 10^{-5} = 10^{-4,74} \Rightarrow pK_a = 4,74$.
 
 BARA KOLLA IGENOM THOMAS ANTECKNINGAR OCH GÖR ÖVNINGAR SÅ BORDE DET GÅ BRA.
 

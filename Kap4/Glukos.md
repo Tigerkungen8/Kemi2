@@ -14,6 +14,6 @@ Kan ej öppnas sig, vattnet förstör lite av formen, men molekylen behåller si
 
 
 ### Variationer
-Finns två varianter, $\alpha-glukos$ och $\beta-glukos$, vilket är cykliska/hex-formiga isomer (de är just i detta fell [[Hexoser]], en undergrupp i  [[Monosackarider]]). Normalt linjär dock. Sker för att hydroxylgruppen hamnar på olika platser. De cykliska (alltså $\alpha- och \betaglukos$) är mycket vanligare än normal. 35 % är alfa, 65% är beta av det man hittar i naturen.
+Finns två varianter, $\alpha-glukos$ och $\beta-glukos$, vilket är cykliska/hex-formiga isomer (de är just i detta fell [[Hexoser]], en undergrupp i  [[Monosackarider]]). Normalt linjär dock. Sker för att hydroxylgruppen hamnar på olika platser. De cykliska (alltså $\alpha- och \beta$ glukos) är mycket vanligare än normal. 35 % är alfa, 65% är beta av det man hittar i naturen.
 
 "Det är alltid cykliska former av monosackarider som är [[Monomerer]] i sammansatta [[Kolhydrater]]." S.135

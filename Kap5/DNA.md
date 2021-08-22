@@ -10,7 +10,7 @@ I varje människocell finns 46 st DNA-molekyler med längden 2 m, vilket för at
 En [[Triplett]] är tre baser som tillsammans bildar en [[Aminosyror]] (t.ex A-C-G blir cystein).
 
 ## Replikation
-Sker genom att DNA:et först delas upp i två trådar med hjälp av [[Enzymer]] *helikas*. Eftersom att det finns fria [[Nukleotider]] så binds sedan dessa två ensamma trådar till de lediga baserna, som sedan binds med hjälp an enzymet [[DNA-Polymeras]].
+Sker genom att DNA:et först delas upp i två trådar med hjälp av [[Enzymer]] *[[Helikas]]*. Eftersom att det finns fria [[Nukleotider]] så binds sedan dessa två ensamma trådar till de lediga baserna, som sedan binds med hjälp an enzymet [[DNA-Polymeras]].
 
 ## Skapelse av _**Protein**_/*Proteinsyntes*
 Protein byggs upp cellplasman med hjälp av [[Ribosomer]]. För att skicka ut bygg-instrukttioner från DNA så krävs det ett sätt att få bort det från cellkärnan och ut till cellplasman, det svaret är m[[RNA]]. Komplementera tripletter/kodon skapas från DNA:t för att sedan skickas till ribosomerna. När DNA:t öppnas för mRNA att skapas kallas det *transkription*. RNA har ej T utan byter det till U (uracil).

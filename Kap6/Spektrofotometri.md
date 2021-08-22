@@ -1,7 +1,7 @@
 # Definition
 Likt [[Kolorimetriska Analyser]], men använder en fotocell istället för ett öga. Fotocellen/verktyget man använder för att analysera kallas då spektrofotometer.
 
-Kan bestämma lösningars *adsorbans* (mått intensitetsminskning för ljuset som passerar lösningen, betecknas A). **Inte** *absorption*.
+Kan bestämma lösningars *absorbans* (mått intensitetsminskning för ljuset som passerar lösningen, betecknas A). **Inte** *adsorption*.
 
 $A = lg(\frac{I_0}{I})$, där $I_0$ är bas-intesiteten för ljuset och $I$ är intensitetet ljuset har efter den har passerat lösningen. 
 

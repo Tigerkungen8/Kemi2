@@ -1,5 +1,5 @@
 # Kemi 2
-Syftet med detta repo är att dela den information jag (?) har fått upp, antingen genom att läsa boken eller lyssnat på föreläsningarna, i kursen Kemi 2 när jag själv studerade inför prov (specifikt kap4-kap5). Hur man använder detta är upp för en själv. Ett komplement till boken och läraren, ett sätt att checka upp på ett visst begrepp eller bara något kul att ladda ner och se hur de olika begreppen passar ihop med varandra med Graph View, finns egentligen många saker.
+Syftet med detta repo är att dela den information jag (?) har fått upp, antingen genom att läsa boken eller lyssnat på föreläsningarna, i kursen Kemi 2 när jag själv studerade inför prov. Hur man använder detta är upp för en själv. Ett komplement till boken och läraren, ett sätt att checka upp på ett visst begrepp eller bara något kul att ladda ner och se hur de olika begreppen passar ihop med varandra med Graph View, finns egentligen många saker.
 
 ## Använding?
 Så, hur är detta byggt, och hur kan du använda detta? Jag skrev allt detta med ett program som heter [Obsidian](https://www.obsidian.md), vilket jag rekomendarar att du laddar ner, det är ett fantastiskt, gratis (för tillfället) verktyg för att skriva digitala anteckningar. Hur man laddar ner det och allt det finns på webbsidan (utan problem för alla OS:s förutom ChromeOS). 
@@ -13,7 +13,7 @@ Här är hur du ska då ladda ner projektet:
 ## Chromebook Obsidian
 Eftersom att de flesta studenter som jag känner använder Chromebook samt ChromeOS, så måste jag skriva en guide till hur man ska ladda ner detta Obsidian för Chromebooks, så att detta projekt kan faktiskt bli användbar. **OBS:** Finns ett lättare sätt, gå bara in på [Guiden](https://decoge.medium.com/how-to-install-obsidian-on-a-chromebook-53e379217adf) som använder ett annat sätt. Dock raderar jag inte denna guide då jag är lite för glad över min första guide.
 
-0. (Ifall du redan har laddat ner Linux på din chromebook, skippa detta steg). För att ladda ner Linux på din dator behöver du gå in i "Inställningar", sedan gå in i "Utvecklare", sedan "Sätt på" för Linux (Beta).
+0. (Ifall du redan har laddat ner Linux på din chromebook, skippa detta steg). För att ladda ner Linux på din dator behöver du gå in i "Inställningar", sedan gå in i "Utvecklare", sedan "Sätt på" för Linux (Beta). Din skola kan vara fegisar och inte tillåta dig sätta på denna option. Finns inte mycket att göra förutom att prata/argumentera för att tillåta Linux på skolans datorer.
 1. Ladda ner Obsidian. Detta gör du genom att gå till deras webbsida ([Obsidian](https://obsidian.md/download)) och väljer ladda ner Obsidian **AppImage** (måste ta det, flat och snap är andra sätt som jag inte visar i denna *README*). Sedan flyttar du *AppImagen* till "Linux-filer", som du ska ha fått när du laddade ner Linux.
 2. Nu ska du göra *AppImagen* till en *executable* genom att öppna upp terminalen (om du flyttade Obsidian-filen till Linux-filen ska den automatiskt vara "nåbar" i terminalen, vilket du kan testa genom att skriva "ls" och se Obsidian-filen) och skriv detta:
 
@@ -31,7 +31,7 @@ $ ./Obsidian*.AppImage
 ### Troubleshooting
 4. Ifall du får ett fel där det står något i typen av detta:
 ```
-...: error while leading shared libraries: libnss3.so: cannot open shared object file: No such file or directory
+...: error while loading shared libraries: libnss3.so: cannot open shared object file: No such file or directory
 ```
 Då ska du skriva detta:
 ```
@@ -62,4 +62,4 @@ En annan mindre kommentar är att *.obsidian*-filen är bara ett text-dokument s
 **Mindre anmärkning:** När du laddar ner detta kommer du automatiskt få *themen* jag använder, den så kallade "ITS Theme". Detta kan du dock ändra genom att klicka på kugghjulet till vänster, öppna upp "Appereance" och sedan "Browse" för *community themes*. Du kan välja themes ifall du klickar på knappen ovanför Browse där det förmodligen står "ITS Theme" eller också "None". 
 
 ## Open Source?
-Ifall man är intresserad/kan mer om Github så kan man såklart forka projektet, göra några förändringar och sedan göra en pull-request, ifall man verkligen vill. Dock vet jag inte hur lång tid det kommer ta tills jag svarar på requesten. Just nnu försöker jag bara bli klar med detta projekt och lära mig lite mer om Github. Men om du känner att du vill gå igenom 13 000 ord, skrivna av mig, en dålig stavare, och leta efter stavningsfel, så kommer jag inte stoppa dig. Samma sak ifall du vill korrektera/utöka vissa texter som t.ex [[Aromatiska]].
+Ifall man är intresserad/kan mer om Github så kan man såklart forka projektet, göra några förändringar och sedan göra en pull-request, ifall man verkligen vill. Dock vet jag inte hur lång tid det kommer ta tills jag svarar på requesten. Just nnu försöker jag bara bli klar med detta projekt och lära mig lite mer om Github. Men om du känner att du vill gå igenom 13 000 ord, skrivna av mig, en dålig stavare, och leta efter stavningsfel, så kommer jag inte stoppa dig. Samma sak ifall du vill korrektera/skapa nya/utöka vissa texter som t.ex [[Aromater]].
